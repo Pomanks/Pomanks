@@ -14,6 +14,12 @@
 
 **Some hobbies? Absolutely!**
 
-> • Building LEGOs
-> • Watching movies or tv shows
+> • Building LEGOs  
+> • Watching movies or tv shows  
 > • Learning new stuff and developing [Popcorn Movies](https://popcornmovies.app)
+
+
+**Check me out**
+
+[Twitter](https://twitter.com/@Pomanks)  
+[Trakt.tv](https://trakt.tv/users/pomanks)  
