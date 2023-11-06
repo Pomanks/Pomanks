@@ -14,12 +14,13 @@
 
 **Some hobbies? Absolutely!**
 
-> • Building LEGOs  
+> • Building LEGOs
+> • Gardening
 > • Watching movies or tv shows  
-> • Learning new stuff and developing [Popcorn Movies](https://popcornmovies.app)
+> • Learning new stuff and developing [Popcorn Movies](https://popcornmovies.app) and Chlorophylle (WIP)
 
 
 **Check me out**
 
-[Twitter](https://twitter.com/@Pomanks)  
+[MAstodon](https://mastodon.social/@pomanks)
 [Trakt.tv](https://trakt.tv/users/pomanks)  
