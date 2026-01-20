@@ -9,7 +9,7 @@
 
 **Now that we're a bit more familiar, what's my job?**
 
-> iOS developer at [LivingPackets](https://livingpackets.com).
+> iOS developer
 
 
 **Some hobbies? Absolutely!**
@@ -17,7 +17,7 @@
 > • Building LEGOs  
 > • Gardening  
 > • Watching movies or tv shows  
-> • Learning new stuff and developing [Popcorn Movies](https://popcornmovies.app) and Chlorophylle (WIP)
+> • Learning new stuff and developing Chlorophylle (WIP)
 
 
 **Check me out**
